@@ -1,4 +1,4 @@
-package model;
+
 
 public class Account {
     protected int id;

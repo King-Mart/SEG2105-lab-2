@@ -1,4 +1,4 @@
-package model;
+
 
 public class Investor extends Client {
     private double investmentPortfolioValue;

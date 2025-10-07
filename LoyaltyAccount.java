@@ -1,4 +1,4 @@
-package model;
+
 
 public class LoyaltyAccount {
     private int loyaltyID;

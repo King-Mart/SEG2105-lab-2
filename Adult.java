@@ -1,4 +1,4 @@
-package model;
+
 
 public class Adult extends Client {
     private String occupation;

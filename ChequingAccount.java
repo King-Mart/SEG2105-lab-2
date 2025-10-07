@@ -1,4 +1,4 @@
-package model;
+
 
 public class ChequingAccount extends Account implements NickNameable {
     private double overdraftLimit;

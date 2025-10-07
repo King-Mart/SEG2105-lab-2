@@ -1,4 +1,4 @@
-package model;
+
 
 public class ExternalClient {
     private String bank;

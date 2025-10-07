@@ -1,4 +1,4 @@
-package model;
+
 
 public class SavingsAccount extends Account implements InterestAccount {
     private double interestRate;

@@ -1,4 +1,4 @@
-package model;
+
 
 public class Individual extends Client {
     private String occupation;

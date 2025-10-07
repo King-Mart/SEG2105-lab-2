@@ -1,4 +1,4 @@
-package model;
+
 
 public class Student extends Client {
     private String parentID;

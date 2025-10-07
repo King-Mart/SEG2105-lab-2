@@ -1,4 +1,4 @@
-package model;
+
 
 public class InvestmentAccount extends Account {
     private String portfolioType;

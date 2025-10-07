@@ -1,4 +1,4 @@
-package model;
+
 
 public class LargeBusiness extends Client {
     private String businessName;

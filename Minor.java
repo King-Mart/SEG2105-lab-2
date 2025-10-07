@@ -1,4 +1,4 @@
-package model;
+
 
 public class Minor extends Client {
     private String guardianName;
