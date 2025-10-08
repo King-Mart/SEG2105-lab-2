@@ -1,0 +1,12 @@
+Adding reward1: true
+Adding reward2: true
+Adding reward1 again (should fail): false
+Rewards in loyalty account: 2
+Removing reward1: true
+Removing reward1 again (should fail): false
+Adding redemption1: true
+Adding redemption2: true
+Adding redemption1 again (should fail): false
+Redemptions in loyalty account: 2
+Removing redemption2: true
+Removing redemption2 again (should fail): false
